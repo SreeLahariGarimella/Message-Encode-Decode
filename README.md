@@ -1,1 +1,3 @@
-# Message-Encode-Decode
+# Message Encoding & Decoding
+
+The objective of this project is to encode and decode messages using a common key.In this project, users have to enter the message to encode or decode. Users have to select the mode to choose the encoding and decoding process. The same key must be used to process the encoding and decoding for the same message.Encoding is the process that transforms the text or information to the unrecognizable form and decryption is the process to convert the encrypted message into original form.Message encoding and decoding is the process to first convert the original text to the random and meaningless text called ciphertext and to convert that ciphertext to the original text.Secure your Information by Encoding the messages.
